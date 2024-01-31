@@ -1,0 +1,19 @@
+body {
+    background: #FFF5DD;
+}
+  
+div {
+    border: thin solid black;
+}
+
+h1 {
+  color: red;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}
