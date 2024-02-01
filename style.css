@@ -1,19 +1,35 @@
 body {
-    background: #FFF5DD;
-}
-  
-div {
-    border: thin solid black;
+    background: #FFF8E6;
+    font-family: gill sans, sans-serif;
 }
 
 h1 {
-  color: red;
-}
-
-figure {
   text-align: center;
+  color: #7E3D0A;
+  font-family: optima, sans-serif;
 }
 
 figcaption {
   text-align: center;
+  font-weight: 600;
+}
+
+.figure-container {
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #F5E9C5;
+}
+
+table{
+  border-collapse: collapse;
+  background-color: #F5E9C5;
+  margin-top: 40px;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
 }
